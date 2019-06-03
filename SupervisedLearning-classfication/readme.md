@@ -4,3 +4,8 @@ Naïve Bayes is a classification technique used to build classifier using the Ba
 ```
 pip3 install --user sklearn
 ```
+
+### Execute
+```
+python3 index.py
+```
